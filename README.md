@@ -1,5 +1,5 @@
 # 3Spoofer
-extremely pasted spoofer/cleaner no mapper or drivers so u know its safe
+extremely pasted spoofer/cleaner no mapper or drivers so u know its somewhat safe
 no support or updates unless i feel like it
 
 not fully tested so run at your own risk!
