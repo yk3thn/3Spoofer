@@ -1,0 +1,14 @@
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\bin\Debug\net8.0\3Spoofer.exe
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\bin\Debug\net8.0\3Spoofer.deps.json
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\bin\Debug\net8.0\3Spoofer.runtimeconfig.json
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\bin\Debug\net8.0\3Spoofer.dll
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\bin\Debug\net8.0\3Spoofer.pdb
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\obj\Debug\net8.0\3Spoofer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\obj\Debug\net8.0\3Spoofer.AssemblyInfoInputs.cache
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\obj\Debug\net8.0\3Spoofer.AssemblyInfo.cs
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\obj\Debug\net8.0\3Spoofer.csproj.CoreCompileInputs.cache
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\obj\Debug\net8.0\3Spoofer.dll
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\obj\Debug\net8.0\refint\3Spoofer.dll
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\obj\Debug\net8.0\3Spoofer.pdb
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\obj\Debug\net8.0\3Spoofer.genruntimeconfig.cache
+C:\Users\yk3th\source\repos\3Spoofer\3Spoofer\obj\Debug\net8.0\ref\3Spoofer.dll
